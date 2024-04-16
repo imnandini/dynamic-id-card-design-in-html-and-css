@@ -1,12 +1,12 @@
 # Employee ID Card Generator
 This project is a simple web-based Employee ID Card generator that allows users to create customized ID cards for employees. It includes both the front and back designs of the ID card.
 
-Features
+### Features
 Front ID Card Design: The front side of the ID card includes fields for employee information such as name, position, ID number, join date, phone number, and company logo. It also features a photo of the employee and a barcode.
 
 Back ID Card Design: The back side of the ID card includes sections for terms and conditions, contact information, and a horizontal line for separation.
 
-Technologies Used
+### Technologies Used
 HTML: Used for structuring the web page and defining the content of the ID card.
 
 CSS: Used for styling the ID card layout, including positioning, colors, fonts, and sizes.
